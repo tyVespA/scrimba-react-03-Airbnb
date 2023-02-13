@@ -1,0 +1,32 @@
+export default [
+  {
+    key: 1,
+    image: "swimmer",
+    bannerValue: "SOLD OUT",
+    ratingValue: "5.0",
+    ratingAmout: "6",
+    ratingLocation: "USA",
+    title: "Life lessons with Katie Zaferes",
+    priceValue: "136",
+  },
+  {
+    key: 2,
+    image: "wedding-photography",
+    bannerValue: "ONLINE",
+    ratingValue: "5.0",
+    ratingAmout: "30",
+    ratingLocation: "USA",
+    title: "Learn wedding photography",
+    priceValue: "125",
+  },
+  {
+    key: 3,
+    image: "mountain-bike",
+    bannerValue: "",
+    ratingValue: "4.8",
+    ratingAmout: "2",
+    ratingLocation: "USA",
+    title: "Group Mountain Biking",
+    priceValue: "50",
+  },
+];
